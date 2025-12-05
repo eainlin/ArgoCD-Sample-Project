@@ -6,4 +6,4 @@ RUN echo "Hello from nginx: v2" > /usr/share/nginx/html/index.html
 
 RUN echo "Hello From nginx: v3" > /usr/share/nginx/html/index.html
 
-RUN echo "Hello From nginx: v3" > /usr/share/nginx/html/index.html
+RUN echo "Hello From nginx: v4" > /usr/share/nginx/html/index.html
